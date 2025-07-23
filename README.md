@@ -9,4 +9,4 @@ URL：
 ### RemoveTextFromImage.org - AI-Powered Text Removal Tool
 OUR Tool is a SaaS platform using AI to remove text from images. Intuitive, quality - preserving, with a premium glassmorphism interface.
 URL：
-- removetextfromimage.org
+- www.removetextfromimage.org
